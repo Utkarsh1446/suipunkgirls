@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthe_weirdos=self.webpackChunkthe_weirdos||[]).push([[435],{5034:function(e,n,i){i.r(n),i.d(n,{default:function(){return c}});var t,d=i(168),o=(i(2791),i(6444)),a=i.p+"static/media/Home Video.ae1db416c177a0c8e4f9.mp4",h=i(184),u=o.ZP.div(t||(t=(0,d.Z)(["\nwidth: 100%;\n\nvideo{\n    width: 100%;\n    height: auto;\n}\n\n@media (max-width: 64em) {\n  min-width: 40vh;\n}\n"]))),c=function(){return(0,h.jsx)(u,{children:(0,h.jsx)("video",{src:a,type:"video/mp4",autoPlay:!0,muted:!0,loop:!0})})}}}]);
+//# sourceMappingURL=435.2cbd7661.chunk.js.map
